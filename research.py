@@ -204,6 +204,14 @@ def main(topic):
                 {"messages": [{"role": "user", "content": prompt}]},
                 config={"recursion_limit": 1000},
             )
+
+            # Safeguard tất định trong sandbox (GUIDE 2.6):
+            # Đảm bảo finalize_citations.py được chạy trong sandbox trước khi download
+            backend.execute(f"python3 {FINALIZER_PATH}")
+            val_res = backend.execute(f"python3 {VALIDATOR_PATH}")
+            if val_res.exit_code != 0:
+                sys.stderr.write(f"SANDBOX VALIDATOR WARNING:\n{val_res.result}\n")
+
             elapsed = time.monotonic() - start
             messages = result.get("messages", []) if isinstance(result, dict) else []
             saved_report = save_outputs(backend, topic, messages, elapsed, model_name)
