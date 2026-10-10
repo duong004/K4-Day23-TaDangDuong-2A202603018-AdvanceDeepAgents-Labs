@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.09941",
+    "url": "https://arxiv.org/abs/2610.09941",
+    "title": "Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.07443",
+    "url": "https://arxiv.org/abs/2610.07443",
+    "title": "A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2511.06512",
+    "url": "https://huggingface.co/papers/2511.06512",
+    "title": "EASE: Practical and Efficient Safety Alignment for Small Language Models",
+    "date": "2025-11-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "10.1007/s43684-026-00130-7",
+    "url": "https://link.springer.com/article/10.1007/s43684-026-00130-7",
+    "title": "Strategies for computational efficiency in small language models",
+    "date": "2026-04-09",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2605.30695",
+    "url": "https://arxiv.org/abs/2605.30695",
+    "title": "Primitive Subspaces Mediate Few-Shot Transfer in VLAs",
+    "date": "2026-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2601.14053",
+    "url": "https://arxiv.org/abs/2601.14053",
+    "title": "LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems",
+    "date": "2026-01-20",
+    "source": "arxiv"
+  }
+]

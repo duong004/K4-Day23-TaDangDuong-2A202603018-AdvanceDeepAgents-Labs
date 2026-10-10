@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12375",
+    "url": "https://arxiv.org/abs/2610.12375",
+    "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12190",
+    "url": "https://arxiv.org/abs/2610.12190",
+    "title": "DataSense-Bench: The First Step Toward an AI Scientist",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "10.1007/s41019-025-00296-9",
+    "url": "https://link.springer.com/article/10.1007/s41019-025-00296-9",
+    "title": "LLM-Based Agents for Tool Learning: A Survey | Data Science and Engineering",
+    "date": "2025-06-26",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2602.23193",
+    "url": "https://huggingface.co/papers/2602.23193",
+    "title": "ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering",
+    "date": "2026-02-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2026.acl-long.337.pdf",
+    "title": "AGENCYBENCH: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.11899",
+    "url": "https://arxiv.org/abs/2610.11899",
+    "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "FALAA-Framework",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-18011-7_4",
+    "title": "FALAA: Framework for the Abstraction of Language Agent Architectures",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2610.12183",
+    "url": "https://arxiv.org/abs/2610.12183",
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2610.09858",
+    "url": "https://arxiv.org/abs/2610.09858",
+    "title": "Training Advisors for LLM Agents from Task Outcomes",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2610.09832",
+    "url": "https://arxiv.org/abs/2610.09832",
+    "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "N/A",
+    "url": "https://www.rivista.ai/wp-content/uploads/2025/07/2412.14161v2.pdf",
+    "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+    "date": "N/A",
+    "source": "web"
+  }
+]

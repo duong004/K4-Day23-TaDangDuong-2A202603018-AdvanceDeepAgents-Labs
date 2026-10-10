@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2209.03430",
+    "url": "https://arxiv.org/html/2209.03430v2",
+    "title": "Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions",
+    "date": "2023-02-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2609.36995",
+    "url": "https://huggingface.co/papers/2609.36995",
+    "title": "Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation",
+    "date": "2026-09-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2409.17692",
+    "url": "https://arxiv.org/pdf/2409.17692v4",
+    "title": "MIO: A Foundation Model on Multimodal Tokens",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "N/A",
+    "url": "https://airoads.org/ch12-multimodal/ch03-video-gen/01-video-generation/",
+    "title": "12.3.2 Video Generation Technology | AI Roads",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "254",
+    "url": "https://aclanthology.org/2024.emnlp-main.254.pdf",
+    "title": "VIMI: Grounding Video Generation through Multi-modal Instruction",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2609.10714",
+    "url": "https://arxiv.org/abs/2609.10714",
+    "title": "From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity",
+    "date": "2026-09-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2609.08275",
+    "url": "https://arxiv.org/abs/2609.08275",
+    "title": "Beyond Coherence: Benchmarking Professional Editing-Technique Execution in Multi-Shot Audio-Video Generation",
+    "date": "2026-09-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2609.26274",
+    "url": "https://arxiv.org/abs/2609.26274",
+    "title": "AIGC Video Detection based on the fusion of spatial-frequency-optical flow multimodal features",
+    "date": "2026-08-17",
+    "source": "arxiv"
+  }
+]
