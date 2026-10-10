@@ -209,8 +209,12 @@ def main(topic):
             # Đảm bảo finalize_citations.py được chạy trong sandbox trước khi download
             backend.execute(f"python3 {FINALIZER_PATH}")
             val_res = backend.execute(f"python3 {VALIDATOR_PATH}")
-            if val_res.exit_code != 0:
-                sys.stderr.write(f"SANDBOX VALIDATOR WARNING:\n{val_res.result}\n")
+            exit_code = getattr(val_res, "exit_code", 0)
+            if exit_code != 0:
+                stdout_text = getattr(val_res, "stdout", "") or getattr(val_res, "output", "")
+                stderr_text = getattr(val_res, "stderr", "")
+                output = f"{stdout_text}\n{stderr_text}".strip() or str(val_res)
+                sys.stderr.write(f"SANDBOX VALIDATOR WARNING:\n{output}\n")
 
             elapsed = time.monotonic() - start
             messages = result.get("messages", []) if isinstance(result, dict) else []
